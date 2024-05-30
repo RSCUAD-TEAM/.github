@@ -1,5 +1,5 @@
 ## Welcome to the RSCUAD repository 👋
-> see <a href="https://github.com/R-SCUAD-PROGRESS/wiki/wiki">wiki</a> for more detail the team!.
+> see <a href="https://github.com/R-SCUAD-PROGRESS/wiki/wiki">wiki</a> for more detail the our Team!.
 <!--
 
 **Here are some ideas to get you started:**
